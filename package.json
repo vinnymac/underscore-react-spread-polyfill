@@ -1,0 +1,21 @@
+{
+  "name": "underscore-react-spread-polyfill",
+  "version": "1.0.0",
+  "description": "Polyfill React __spread using Underscore",
+  "license": "MIT",
+  "repository": "vinnymac/underscore-react-spread-polyfill",
+  "author": {
+    "name": "Vincent Taverna",
+    "email": "vinnymac@gmail.com",
+    "url": "http://vinnymac.github.io"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "underscore",
+    "react",
+    "spread",
+    "polyfill"
+  ]
+}
