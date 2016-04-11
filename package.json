@@ -1,6 +1,6 @@
 {
   "name": "underscore-react-spread-polyfill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Polyfill React __spread using Underscore",
   "license": "MIT",
   "repository": "vinnymac/underscore-react-spread-polyfill",

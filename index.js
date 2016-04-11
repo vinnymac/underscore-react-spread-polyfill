@@ -4,7 +4,7 @@
 // https://github.com/Microsoft/TypeScript/issues/7270#issuecomment-207138701
 'use strict';
 
-_ = require('underscore');
-React = require('react');
+var _ = require('underscore');
+var React = require('react');
 
 React.__spread = _.extend;
